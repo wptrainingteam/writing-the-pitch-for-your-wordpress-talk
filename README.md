@@ -52,7 +52,7 @@ Each participant will come out of the workshop with a WordCamp or meetup talk pr
 ## Assets
 
 *   [Workbook (link to Google doc)](https://drive.google.com/file/d/1JvqJZEbXNymTy1n_5A68t5cy5S3IpGrL/view?usp=sharing) _(You may download and edit as needed.)_
-*   [Slides (link to Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) __(All of the Speaker Training lessons are included. You will start at the top and when you get to a_ _"Which section are you running next?" _slide, choose the next lesson you are doing this day. You will definitely want to download and make some edits as there are some instructions for you in the slides themselves.)_
+*   [Slides (link to Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) _(All of the Speaker Training lessons are included. You will start at the top and when you get to a_ "Which section are you running next?" _slide, choose the next lesson you are doing this day. You will definitely want to download and make some edits as there are some instructions for you in the slides themselves.)_
 *   A large device that can show a countdown timer for the timed speaking presentations, such as an iPad
 *   A video recording device, such as an iPad or phone
 *   Sign up sheet, clipboard, pen
@@ -128,17 +128,17 @@ Some ideas for how you may tailor your pitch for specific audiences and events:
 
 (Source: [http://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html](http://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html))
 
-1. ****Direct the proposal to the attendees, not the curators** **Many conferences use your talk proposal as the description of the talk in their programme. With that in mind, your target reader is the conference attendee who is reading the programme. Tell the reader why your talk will interest them, and what they will learn. The curators want to put together a great conference with compelling talks for their attendees. Your talk will be part of the package they offer, so sell it!Make sure you research the event. Are there different tracks? Who is the audience? Lots of devs? Mostly for users? Design-heavy? Different WordCamps have different personalities. Are they short on really technical presentations? Light on talks for beginners? Try to fill a need (i.e podcasting).
+1. **Direct the proposal to the attendees, not the curators.** Many conferences use your talk proposal as the description of the talk in their programme. With that in mind, your target reader is the conference attendee who is reading the programme. Tell the reader why your talk will interest them, and what they will learn. The curators want to put together a great conference with compelling talks for their attendees. Your talk will be part of the package they offer, so sell it!Make sure you research the event. Are there different tracks? Who is the audience? Lots of devs? Mostly for users? Design-heavy? Different WordCamps have different personalities. Are they short on really technical presentations? Light on talks for beginners? Try to fill a need (i.e podcasting).
 
-1. ****Be specific about the focus your talk will have**** Generally speaking, a shallow introduction to many things is not as interesting as an in-depth introduction to one thing. If you discuss the broader topic, do so only to set the context for what you will focus on.
+1. **Be specific about the focus your talk will have.** Generally speaking, a shallow introduction to many things is not as interesting as an in-depth introduction to one thing. If you discuss the broader topic, do so only to set the context for what you will focus on.
 
-1. ****One strategy: Pose the question your talk will answer**** Often, talks answer questions that start with “how”, “why”, “when” and so on. An easy trick is to directly ask these questions in your proposal, leaving the reader wondering the answer.
+1. **One strategy: Pose the question your talk will answer.** Often, talks answer questions that start with “how”, “why”, “when” and so on. An easy trick is to directly ask these questions in your proposal, leaving the reader wondering the answer.
 
-1. ****Make your point as succinctly as you can**** If your first draft requires more than two paragraphs to get to the point of your topic, edit to slim things down. Take out any words that can be removed without changing the meaning. You may have a lot of competition, so try to make a good impression quickly. If your proposal is too much work to read or understand, it might get skipped during the selection process.
+1. **Make your point as succinctly as you can.** If your first draft requires more than two paragraphs to get to the point of your topic, edit to slim things down. Take out any words that can be removed without changing the meaning. You may have a lot of competition, so try to make a good impression quickly. If your proposal is too much work to read or understand, it might get skipped during the selection process.
 
-1. ****Use proper grammar, spelling, and punctuation**** If you submit a sloppily written proposal, you appear careless and as if you are not taking the opportunity seriously. You risk being rejected on those grounds outright. Speaking requires a lot of thoughtful preparation, and curators can only assume you will be as careless when preparing the talk itself.
+1. **Use proper grammar, spelling, and punctuation.** If you submit a sloppily written proposal, you appear careless and as if you are not taking the opportunity seriously. You risk being rejected on those grounds outright. Speaking requires a lot of thoughtful preparation, and curators can only assume you will be as careless when preparing the talk itself.
 
-1.  ****Have your proposal reviewed by someone with experience**** Just as you might ask a friend to critique a draft of your CV, an essay, or the talk itself, ask someone (ideally a writer, speaker, or curator) to review your talk proposal. They will catch typos, as well as verify whether your proposal explains the scope of your talk, and explains its benefit to your audience.
+1.  **Have your proposal reviewed by someone with experience.** Just as you might ask a friend to critique a draft of your CV, an essay, or the talk itself, ask someone (ideally a writer, speaker, or curator) to review your talk proposal. They will catch typos, as well as verify whether your proposal explains the scope of your talk, and explains its benefit to your audience.
 
 ### Coming Up With a Great Title
 
